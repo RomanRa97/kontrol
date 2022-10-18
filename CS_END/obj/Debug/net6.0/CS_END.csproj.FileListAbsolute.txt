@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\CS_END\bin\Debug\net6.0\CS_END.exe
+C:\Users\Admin\Desktop\CS_END\bin\Debug\net6.0\CS_END.deps.json
+C:\Users\Admin\Desktop\CS_END\bin\Debug\net6.0\CS_END.runtimeconfig.json
+C:\Users\Admin\Desktop\CS_END\bin\Debug\net6.0\CS_END.dll
+C:\Users\Admin\Desktop\CS_END\bin\Debug\net6.0\CS_END.pdb
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\CS_END.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\CS_END.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\CS_END.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\CS_END.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\CS_END.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\CS_END.dll
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\refint\CS_END.dll
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\CS_END.pdb
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\CS_END.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CS_END\obj\Debug\net6.0\ref\CS_END.dll
